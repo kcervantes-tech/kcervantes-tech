@@ -1,5 +1,5 @@
 # Hello, I'm Katheryn Cervantes  
-<a href="www.linkedin.com/in/katheryn-cervantesVanity URL name"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/katheryn-cervantes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me  
 I am an experienced property manager transitioning into **Information Technology Management** focusing on **cyber security** **virtualization** and **cloud computing**. With over 17 years of professional management experience, I’m skilled in problem-solving, team leadership, and process optimization. I’m pursuing a degree in **Information Technology** while building skills in **networking**, **cloud systems**, and **security operations**.
